@@ -4,5 +4,5 @@
 
 <h2 align="center">Opa! Bora codar? 🤗👩🏻‍💻 </h2>
 <p align="center">
-  <img src="https://github-profile-trophy.zeabur.app/?username=nicole926&theme=tokyonight" width="400" />
+  <img src="https://github-profile-trophy.zeabur.app/?username=nicole926&theme=tokyonight" width="500" />
 </p>
