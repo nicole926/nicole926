@@ -9,6 +9,6 @@
 
 <details>
   <summary>💡...</summary>
-  -- Perfil exclusivamente para testes, aulas introdutórias e erros kkkkkkk 😉
+  -- Perfil exclusivamente para testes, aulas introdutórias e erros kkkkkkk 😉 <br>
   -- Perfil principal👉: [@nicole-m0](https://github.com/nicole-m0)
 </details>
