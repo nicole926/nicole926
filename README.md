@@ -2,4 +2,7 @@
   <img src="让兴趣，更有趣.gif" width="850"/>
 </p>
 
-<h2>Opa! Bora codar? 🤗👩🏻‍💻 </h2>
+<h2 align="center">Opa! Bora codar? 🤗👩🏻‍💻 </h2>
+<p align="center">
+  <img src="https://github-profile-trophy.zeabur.app/?username=nicole926&theme=tokyonight" />
+</p>
