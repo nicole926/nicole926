@@ -6,3 +6,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.zeabur.app/?username=nicole926&theme=tokyonight" width="600" />
 </p>
+
+<details>
+  <summary>💡...</summary>
+  -- perfil exclusivamente para testes, aulas introdutórias e erros kkkkkkk 😉
+  Perfil principal👉: [@nicole-m0](https://github.com/nicole-m0)
+</details>
