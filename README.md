@@ -7,6 +7,3 @@
   <img src="https://github-profile-trophy.zeabur.app/?username=nicole926&theme=tokyonight" width="600" />
 </p>
 
----
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicole926&theme=tokyonight" />
